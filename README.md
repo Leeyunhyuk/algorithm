@@ -10,6 +10,7 @@ __Level 1__
 * **`DropRace.cpp` : `완주하지 못한 선수`** (STL : 정렬 [sort])
 * **`Ponketmon.cpp` : `폰켓몬`**
 * **`FoodFight.cpp` : `푸드 파이트 대회`**
+* **`Cola.cpp` : `콜라 문제`**
 
 
 __Level 2__
