@@ -11,6 +11,7 @@ __Level 1__
 * **`Ponketmon.cpp` : `폰켓몬`**
 * **`FoodFight.cpp` : `푸드 파이트 대회`**
 * **`Cola.cpp` : `콜라 문제`**
+* **`ClosestChar.cpp` : `가장 가까운 글자`** (자료구조 : map)
 
 
 __Level 2__
