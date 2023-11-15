@@ -12,6 +12,7 @@ __Level 1__
 * **`FoodFight.cpp` : `푸드 파이트 대회`**
 * **`Cola.cpp` : `콜라 문제`**
 * **`ClosestChar.cpp` : `가장 가까운 글자`** (자료구조 : map)
+* **`SmallString.cpp` : `크기가 작은 부분 문자열`** (문자열 자르기 및 문자열-숫자 타입캐스팅)
 
 
 __Level 2__
