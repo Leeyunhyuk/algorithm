@@ -16,6 +16,7 @@ __Level 1__
 * **`EnglishNum.cpp` : `숫자 문자열과 영단어`** (특정 문자열 교체)
 * **`Lottos.cpp` : `로또의 최고 순위와 최저 순위`** (vector 검색)
 * **`HallOfFame.cpp` : `명예의 전당(1)`** (sort 정렬 및 vector erase)
+* **`CardPack.cpp` : `카드 뭉치`** (vector front 및 erase)
 
 
 __Level 2__
