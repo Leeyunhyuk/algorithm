@@ -17,6 +17,7 @@ __Level 1__
 * **`Lottos.cpp` : `로또의 최고 순위와 최저 순위`** (vector 검색)
 * **`HallOfFame.cpp` : `명예의 전당(1)`** (sort 정렬 및 vector erase)
 * **`CardPack.cpp` : `카드 뭉치`** (vector front 및 erase)
+* **`Pick2Plus.cpp` : `두 개 뽑아서 더하기`** (set 및 sort)
 
 
 __Level 2__
